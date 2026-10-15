@@ -1,7 +1,7 @@
 ### APPROACH
 The task is to check whether the flag follows the given rules. First, each row is checked to make sure all its cells have the same color. Then, the first cell of every row is compared with the first cell of the previous row to ensure that adjacent rows have different colors.
 
-If both conditions are satisfied, the output is `YES`; otherwise, it is `NO`.
+If both the conditions are satisfied, the output is `YES`; otherwise, it is `NO`.
 
 ---
 
