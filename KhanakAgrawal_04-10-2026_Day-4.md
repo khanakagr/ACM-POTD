@@ -1,5 +1,5 @@
 ### APPROACH
-The main idea is to count how many pairs of soldiers can see each other.
+Here, the main idea is to count how many pairs of soldiers can see each other.
 
 Two soldiers can see each other if the difference between their positions is at most d. Since the soldiers are arranged in a line, each pair is checked only once.
 
