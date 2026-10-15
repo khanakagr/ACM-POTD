@@ -1,7 +1,7 @@
 ### APPROACH
 The task is to find the second smallest distinct number in the array.
 
-First, sort the numbers in ascending order. Then, compare each number with the smallest number and find the first number that is different from it. If such a number exists, print it; otherwise, print NO.
+First, sort the numbers in the ascending order. Then, compare each number with the smallest number and find the first number that is different from it. If such a number exists, print it; otherwise, print NO.
 
 ---
 
