@@ -3,6 +3,7 @@ The string is decoded by checking each character from left to right. If the char
 
 After decoding a two-character symbol, `i` is increased to skip the character that has already been used.
 
+
 ---
 
 ### CODE
